@@ -1,4 +1,5 @@
-nodeschool lyon :school::bear:
+<!-- :tiger: is the closest thing we have from a lion ;) -->
+nodeschool lyon :school::tiger:
 ======
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/lyon.png)](https://gitter.im/nodeschool/lyon)
