@@ -26,7 +26,7 @@
 }
 #international h3, time {
   color: white;
-  font-family: Helvetica, Arial, "sans-serif"
+  font-family: Helvetica, Arial, "sans-serif";
 }
 
 /* overrides */
@@ -46,7 +46,8 @@
 }
 
 .logo {
-  color: rgb(253, 232, 230);
+  /*color: rgb(253, 232, 230);*/
+  color: #fafafa;
   white-space: nowrap;
 }
 
@@ -89,7 +90,7 @@ header .row { z-index: 2; position: relative; }
 .open-knowledge-foundation, .dat { width: 150px; float: right; }
 .dat { margin-right: 35px; position: relative; top: 20px; }
 
-.logo { font-family: 'Droid Sans Mono';}
+/*.logo { font-family: 'Droid Sans Mono';}*/
 
 .site-header {
   background-position: 52% -150px;
@@ -104,8 +105,12 @@ header .row { z-index: 2; position: relative; }
 }
 
 #subheadline, #subheadline a {
-  color: rgb(80,0,0);
-  background-color: rgba(233, 230, 208, 1);
+  color: #222;
+}
+
+#subheadline{
+  background-color: rgba(200, 200, 200, 0.7);
+
 }
 
 #subheadline a {
