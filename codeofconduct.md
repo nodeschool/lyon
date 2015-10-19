@@ -36,4 +36,4 @@ We value your attendance.
 
 We expect participants to follow these rules at the event and related social events.
 
-This Code of Conduct was adapted from [NodeSchool Berlin Code of Conduct](https://github.com/nodeschool/berlin/blob/master/codeofconduct.md) itself adapted from the [JS Conf.eu Code of Conduct]( http://2014.jsconf.eu/code-of-conduct.html).
+This Code of Conduct was adapted from [NodeSchool Berlin Code of Conduct](https://github.com/nodeschool/berlin/blob/master/codeofconduct.md) itself adapted from the [JS Conf.eu Code of Conduct](http://2014.jsconf.eu/code-of-conduct.html).
