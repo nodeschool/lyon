@@ -1,0 +1,256 @@
+/* international day */
+#international {
+  border-top: 3px solid black;
+  background-image: url(http://nodeschool.io/images/international-day-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 4em;
+  text-shadow: 1px 1px 10px #333333;
+}
+#international img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-bottom: -1.5em;
+}
+#international h3 {
+  font-size: 3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#international time {
+  font-size: 1.5em;
+  font-weight: 100;
+}
+#international h3, time {
+  color: white;
+  font-family: Helvetica, Arial, "sans-serif"
+}
+
+/* overrides */
+
+.features-circle {
+  background-color: #f26b66;
+  border: 6px solid #d82727;
+}
+
+.features-item:hover .features-circle {
+  background-color: #AB3375;
+  border-color: #8E1A59;
+}
+
+.logo span:first-child {
+  color: #D82727;
+}
+
+.logo {
+  color: rgb(253, 232, 230);
+  white-space: nowrap;
+}
+
+.site-header {
+  border-top: 5px solid #8E1A59;
+  background-color: #F7F7F7;
+  text-shadow: none;
+  color: black;
+}
+
+.section-signup {
+  background-color: #8E1A59;
+}
+
+.site-header .logo {
+  background-color: rgba(110, 0, 0, 0.2);
+}
+
+
+.signup-form .btn-side {
+  text-decoration: none;
+}
+
+.signup-form .btn-side:hover {
+  border-color: rgb(236,234,213);
+  color: rgb(92,0,50);
+  background-color: rgb(236,234,213);
+}
+
+/* end color overrides */
+
+.row { max-width: 850px; }
+
+header { position: relative; }
+header .row { z-index: 2; position: relative; }
+.section-signup, .signup-subtitle { color: white; }
+.section-signup a { color: white; text-decoration: underline; }
+
+.subheader { text-align: center; color: white; text-transform: uppercase; }
+.open-knowledge-foundation, .dat { width: 150px; float: right; }
+.dat { margin-right: 35px; position: relative; top: 20px; }
+
+.logo { font-family: 'Droid Sans Mono';}
+
+.site-header {
+  background-position: 52% -150px;
+  background-image: url("../img/lyonbg.jpg");
+}
+
+#subheadline, #subheadline a {
+  color: rgb(80,0,0);
+  background-color: rgba(233, 230, 208, 1);
+}
+
+#subheadline a {
+  text-decoration: underline;
+}
+
+.header-intro-wrap {
+  padding-bottom: 110px;
+  padding-top: 110px;
+  text-align: center;
+}
+
+.header-intro-wrap p {
+  font-size: 28px;
+  background-color: #f7f7f7;
+}
+
+.btn-docs {
+  background: #a61300;
+  border-color: #a61300;
+}
+
+.footer-info a {
+  text-decoration: underline;
+  color: white;
+}
+
+
+.footer-info {
+  color: white;
+}
+
+.site-footer {
+  background-color: #AF2420;
+}
+
+footer h4{
+  text-align: center;
+}
+
+#whatweuse .two, #whatweuse h2 {
+  text-align: center;
+}
+
+@media screen and (max-width: 468px) {
+  .logo {
+    font-size: 50px;
+  }
+  .btn-docs {
+    border-color: #a61300;
+  }
+  .site-header {
+  }
+  .header-intro-wrap p {
+    margin-top: 24px;
+  }
+  .header-signup {
+  }
+  .header-intro-wrap .hs-disclaimer {
+    margin-top:50px;
+  }
+  .header-intro-wrap {
+    padding-bottom: 50px;
+  }
+}
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 53.6%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.open-data-node {
+	float: right;
+}
+
+section.section-organizers{
+  text-align: center;
+  background-color: #9F1F30;
+  color: white;
+}
+
+section.section-organizers h4{
+  margin-bottom: 2em;
+  color: white;
+}
+section.section-organizers h5, section.section-organizers h6{
+  color: white;
+}
+
+.organizers{
+  text-align: center;
+  width: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-box;
+  display: -o-box;
+  display: box;
+  display: -webkit-flexbox;
+  display: -moz-flexbox;
+  display: -ms-flexbox;
+  display: -o-flexbox;
+  display: flexbox;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -moz-flex-direction: row;
+  -ms-flex-direction: row;
+  -o-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -o-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -o-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -o-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.organizers div{
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.organizers img{
+  width: 200px;
+  height: 200px;
+}
+
+.organizers a{
+  color: white;
+  background-color: rgba(white, 0.0);
+  text-decoration: underline;
+}
+.organizers a:hover{
+  background-color: rgba(white, 0.3);
+  transition: background-color 0.5s ease;
+}
