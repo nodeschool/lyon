@@ -62,7 +62,7 @@
 }
 
 .site-header .logo {
-  background-color: rgba(110, 0, 0, 0.2);
+  background-color: rgba(150, 150, 150, 0.4);
 }
 
 
@@ -94,6 +94,13 @@ header .row { z-index: 2; position: relative; }
 .site-header {
   background-position: 52% -150px;
   background-image: url("../img/lyonbg.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+#header{
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 #subheadline, #subheadline a {
@@ -106,7 +113,6 @@ header .row { z-index: 2; position: relative; }
 }
 
 .header-intro-wrap {
-  padding-bottom: 110px;
   padding-top: 110px;
   text-align: center;
 }
