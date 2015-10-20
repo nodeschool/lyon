@@ -264,6 +264,7 @@ section.section-organizers h5, section.section-organizers h6{
 .organizers img{
   width: 200px;
   height: 200px;
+  border-radius: 4px;
 }
 
 .organizers a{
