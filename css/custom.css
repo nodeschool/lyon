@@ -104,16 +104,16 @@ header .row { z-index: 2; position: relative; }
   padding-bottom: 100px;
 }
 
-#subheadline, #subheadline a {
+.subheadline, .subheadline a {
   color: #222;
 }
 
-#subheadline{
+.subheadline{
   background-color: rgba(200, 200, 200, 0.7);
 
 }
 
-#subheadline a {
+.subheadline a {
   text-decoration: underline;
 }
 
