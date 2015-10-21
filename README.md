@@ -6,11 +6,12 @@ nodeschool lyon :school::tiger:
 
 ![NodeSchool Lyon](http://nodeschool.io/lyon/img/lyonbg-logo.jpg)
 
-Have a question? [Open an issue](https://github.com/nodeschool/lyon/issues).
+* [How to install Node and nodeschool.io workshops](https://github.com/nodeschool/lyon/blob/master/setup-nodeschool.md)
+* [Resources to learn javascript](https://github.com/nodeschool/lyon/blob/master/learnjavascript.md)
+* Have a question? [Open an issue](https://github.com/nodeschool/lyon/issues) or ask on the [chat](https://gitter.im/nodeschool/lyon).
+* For the [Nodeschool Lyon website](http://nodeschool.io/lyon) repository, see the [gh-pages branch](https://github.com/nodeschool/lyon/tree/gh-pages).
 
 Note: Everyone involved with NodeSchool Lyon has to follow our [Code of Conduct](https://github.com/nodeschool/lyon/blob/master/codeofconduct.md). You can also find contact info there in case you want to report a violation or need help in general.
-
-* The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/lyon/tree/gh-pages).
 
 ## Other Learning Groups/Events in Lyon
 
