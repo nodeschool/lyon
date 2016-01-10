@@ -7,6 +7,7 @@
 
 # Books
 - [eloquent javascript](http://eloquentjavascript.net/) - free online (a [French version of the first edition](http://fr.eloquentjavascript.net/contents.html) is also available)
+- [lots of free books to learn JS](http://jsbooks.revolunet.com)
 
 # Video
 - [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
