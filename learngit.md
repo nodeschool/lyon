@@ -2,6 +2,9 @@
 # Learn [Git](https://en.wikipedia.org/wiki/Git_%28software%29)
 the awesome and indispensable code version manager
 
+## Nodeschool Workshop
+see **git-it** in the [list of workshops](http://nodeschool.io/#workshoppers)
+
 ## Course
 * [Try Git](https://www.codeschool.com/courses/try-git) - a free course on CodeSchool
 * [Learn Git](https://www.codecademy.com/learn/learn-git) - a free course on Codecademy
