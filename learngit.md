@@ -1,4 +1,6 @@
-# Learn Git
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" alt="git" width="200px"/>
+# Learn [Git](https://en.wikipedia.org/wiki/Git_%28software%29)
+the awesome and indispensable code version manager
 
 ## Course
 * [Try Git](https://www.codeschool.com/courses/try-git) - a free course on CodeSchool

@@ -1,3 +1,4 @@
+<img src="http://seravo.fi/uploads/seravo/2013/06/JavaScript-logo.png" alt="JS" width="200px"/>
 # Learn JS
 
 ## Websites
