@@ -10,3 +10,4 @@
 
 ## Documentation
 * [git-scm](https://git-scm.com/): a gold mine on Git
+* [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/) by Github
