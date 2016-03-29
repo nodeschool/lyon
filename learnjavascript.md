@@ -7,6 +7,7 @@
 - [CodeSchool JavaScript RoadTrip](https://www.codeschool.com/courses/javascript-road-trip-part-1) - free
 - [Open Classroom - Tout sur le javascript](https://openclassrooms.com/courses/tout-sur-le-javascript) (in French) - free
 - [Udacity - Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) - this one is in python, so you won't be learning javascript directly, but most of what you will learn there is valuable in the JS world too - free
+- [Learn Javascript](https://psdtowp.net/learn-javascript.html) A collection of short insights from junior to senior developers about how to learn javascript (you have to scroll down a bit).
 
 ## Books
 - [eloquent javascript](http://eloquentjavascript.net/) - free online (a [French version of the first edition](http://fr.eloquentjavascript.net/contents.html) is also available)
