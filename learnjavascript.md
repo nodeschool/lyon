@@ -14,6 +14,11 @@
 - [lots of free books to learn JS](http://jsbooks.revolunet.com)
 
 ## Video
+- [Nodecasts](https://www.youtube.com/user/thecodeplanet/playlists)
+  - [Introduction to Node.js](https://www.youtube.com/playlist?list=PLVHlCYNvnqYqjnypg2Czw4vVjTL2gB7_e)
+  - [Introduction to npm](https://www.youtube.com/watch?v=yM1Lhgvv7D8&list=PLVHlCYNvnqYrUeBZP0pUxSFT0KYr9Xw84)
+  - [JavaScript ES6](https://www.youtube.com/playlist?list=PLVHlCYNvnqYouIVj3IgK3RmzpnWMaoqkw)
+  - [Express.js](https://www.youtube.com/watch?v=L6_CoHNSbwc&list=PLVHlCYNvnqYpQXeTEA0PxH1spth-K9ey7)
 - [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
 - [jsconf](https://www.youtube.com/user/jsconfeu/videos?sort=p&view=0&flow=list)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
