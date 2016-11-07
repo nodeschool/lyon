@@ -22,6 +22,7 @@
 - [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
 - [jsconf](https://www.youtube.com/user/jsconfeu/videos?sort=p&view=0&flow=list)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [mpj on Functional programming](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 ## Documentation
 - [Mozilla Javascript guide](https://developer.mozilla.org/fr/docs/Web/JavaScript) (English, French and more)
