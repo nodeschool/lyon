@@ -11,6 +11,7 @@
 
 ## Books
 - [eloquent javascript](http://eloquentjavascript.net/) - free online (a [French version of the first edition](http://fr.eloquentjavascript.net/contents.html) is also available)
+- [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [lots of free books to learn JS](http://jsbooks.revolunet.com)
 
 ## Video
