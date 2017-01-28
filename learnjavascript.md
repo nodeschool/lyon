@@ -10,6 +10,7 @@
 - [Learn Javascript](https://psdtowp.net/learn-javascript.html) A collection of short insights from junior to senior developers about how to learn javascript (you have to scroll down a bit).
 
 ## Books
+- [Node.js – Bonnes pratiques pour la programmation JavaScript applicative, universelle et modulaire](https://oncletom.io/node.js) - recent and in French
 - [eloquent javascript](http://eloquentjavascript.net/) - free online (a [French version of the first edition](http://fr.eloquentjavascript.net/contents.html) is also available)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [lots of free books to learn JS](http://jsbooks.revolunet.com)
