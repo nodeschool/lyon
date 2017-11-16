@@ -17,6 +17,9 @@
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [lots of free books to learn JS](http://jsbooks.revolunet.com)
 
+## Articles
+- [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+
 ## Video
 - [Nodecasts](https://www.youtube.com/user/thecodeplanet/playlists)
   - [Introduction to Node.js](https://www.youtube.com/playlist?list=PLVHlCYNvnqYqjnypg2Czw4vVjTL2gB7_e)
