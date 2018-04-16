@@ -33,6 +33,7 @@ Those are our favorites (or just the ones we checked), but you can find a lot mo
 - [jsconf](https://www.youtube.com/user/jsconfeu/videos?sort=p&view=0&flow=list)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [mpj on Functional programming](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- grafikart.fr : [JavaScript](https://www.grafikart.fr/tutoriels/javascript) / [NodeJS](https://www.grafikart.fr/tutoriels/nodejs)
 
 ## Documentation
 - [Mozilla Javascript guide](https://developer.mozilla.org/fr/docs/Web/JavaScript) (English, French and more)
